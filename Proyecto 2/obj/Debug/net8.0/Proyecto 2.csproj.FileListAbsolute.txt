@@ -1,0 +1,14 @@
+/Users/mazajp/Desktop/Proyecto 2/obj/Debug/net8.0/Proyecto 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mazajp/Desktop/Proyecto 2/obj/Debug/net8.0/Proyecto 2.AssemblyInfoInputs.cache
+/Users/mazajp/Desktop/Proyecto 2/obj/Debug/net8.0/Proyecto 2.AssemblyInfo.cs
+/Users/mazajp/Desktop/Proyecto 2/obj/Debug/net8.0/Proyecto 2.csproj.CoreCompileInputs.cache
+/Users/mazajp/Desktop/Proyecto 2/bin/Debug/net8.0/Proyecto 2
+/Users/mazajp/Desktop/Proyecto 2/bin/Debug/net8.0/Proyecto 2.deps.json
+/Users/mazajp/Desktop/Proyecto 2/bin/Debug/net8.0/Proyecto 2.runtimeconfig.json
+/Users/mazajp/Desktop/Proyecto 2/bin/Debug/net8.0/Proyecto 2.dll
+/Users/mazajp/Desktop/Proyecto 2/bin/Debug/net8.0/Proyecto 2.pdb
+/Users/mazajp/Desktop/Proyecto 2/obj/Debug/net8.0/Proyecto 2.dll
+/Users/mazajp/Desktop/Proyecto 2/obj/Debug/net8.0/refint/Proyecto 2.dll
+/Users/mazajp/Desktop/Proyecto 2/obj/Debug/net8.0/Proyecto 2.pdb
+/Users/mazajp/Desktop/Proyecto 2/obj/Debug/net8.0/Proyecto 2.genruntimeconfig.cache
+/Users/mazajp/Desktop/Proyecto 2/obj/Debug/net8.0/ref/Proyecto 2.dll
